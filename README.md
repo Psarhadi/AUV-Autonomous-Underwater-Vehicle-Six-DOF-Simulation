@@ -4,7 +4,8 @@ Runge-Kutta integrator, developed in Python
 It can be easily changed to develop advanced GNC algorithms
 Feel free to use and amend the code with citation.
 
-Code by: >
+*** Code by: 
+>
 >[Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
 >
 
