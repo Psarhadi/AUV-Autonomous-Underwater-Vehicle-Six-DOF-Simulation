@@ -14,5 +14,7 @@ This model is used in:
 [2] P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Adaptive integral feedback controller for pitch and yaw channels of an AUV with actuator saturations", ISA Transactions, November 2016, Vol: 65, pp: 284–295.  
 
 The AUV model/parameters are adapted from:
+
 T. Prestero, "Verification of a six degree of freedom simulation model for the REMUS autonomous under water vehicle", MIT, 2001.
+
 which belongs to the REMUS AUV.
