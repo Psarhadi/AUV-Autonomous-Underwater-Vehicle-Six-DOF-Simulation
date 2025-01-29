@@ -2,8 +2,11 @@
 (6DOF) Six Degrees Of Freedom simulation of an AUV (Autonomous Underwater Vehicle) with rate feedback PID controllers for low-level pitch and yaw dynamics, 
 Runge-Kutta integrator, developed in Python
 It can be easily changed to develop advanced GNC algorithms
+Feel free to use and amend the code with citation.
 
-Code by: Pouria Sarhadi ()
+Code by: >
+>[Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
+>
 
 This model is used in:
 [1]  P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Model reference adaptive PID control with anti-windup compensator for an autonomous underwater vehicle", Robotics and Autonomous Systems, September 2016, Vol: 83, pp: 87-93.
