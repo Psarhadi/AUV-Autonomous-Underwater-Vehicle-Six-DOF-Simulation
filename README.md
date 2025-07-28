@@ -9,11 +9,9 @@ It can be easily changed to develop advanced GNC algorithms
 
 This model is used in:
 
-[1]  P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Model reference adaptive PID control with anti-windup compensator for an autonomous underwater vehicle", Robotics and Autonomous Systems, September 2016, Vol: 83, pp: 87-93.
+[1] P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Model reference adaptive PID control with anti-windup compensator for an autonomous underwater vehicle", Robotics and Autonomous Systems, September 2016, Vol: 83, pp: 87-93.
 
-[2] P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Model reference adaptive PID control with anti-windup compensator for an autonomous underwater vehicle", Robotics and Autonomous Systems, September 2016, Vol: 83, pp: 87-93.
-
-[3] P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Adaptive integral feedback controller for pitch and yaw channels of an AUV with actuator saturations", ISA Transactions, November 2016, Vol: 65, pp: 284–295.  
+[2] P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Adaptive integral feedback controller for pitch and yaw channels of an AUV with actuator saturations", ISA Transactions, November 2016, Vol: 65, pp: 284–295.  
 
 The AUV model/parameters are adapted from:
 
